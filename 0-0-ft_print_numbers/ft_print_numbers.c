@@ -14,7 +14,7 @@
 
 int	ft_print_numbers(void)
 {
-	write(1, "0123456789", 10);// always make sure the byt size is equal to the
+	write(1, "0123456789", 10);// always make sure the byt size is equal to the characters in the buff
 	return (0);
 }	
 // OR
